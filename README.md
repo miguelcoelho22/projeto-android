@@ -1,3 +1,3 @@
 # projeto-android
-curso html e css
+link para visualização
 https://miguelcoelho22.github.io/projeto-android/
